@@ -7,6 +7,9 @@
 *.tfstate.lock.
 *.terraform.lock.hcl
 
+# Terraform plan files
+*.plan
+
 # logs
 *.log
 
